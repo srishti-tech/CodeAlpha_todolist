@@ -1,6 +1,7 @@
 # CodeAlpha_todolist
 Welcome to the Todo list project!!
 This web application allows you to manage your tasks effectively. You can add new tasks and remove completed tasks.
+Boostrap is used for UI.
 
 ## Features:
 Add and remove tasks effortlessly.
@@ -14,6 +15,6 @@ User-friendly design for easy task management.
 **HTML:** Structuring todo list.
 **CSS:** Styled the todo list for user interface.
 **JavaScript:** Implemented task management logic and interactivity features.
-
+**Boostrap:** For styling as it is the css framework.
 
 
